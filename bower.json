@@ -2,8 +2,5 @@
   "name": "js-url",
   "description": "Module to get easy access to the url and hash parameters",
   "main": "src/url.js",
-  "version": "0.0.1",
-  "dependencies": {
-	"jquery": ">= 1.8.0"
-  }
+  "version": "0.0.1"
 }
